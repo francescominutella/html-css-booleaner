@@ -47,6 +47,15 @@
     display: inline-block;
     margin-right: 100px;
 }
-.rowsblue{
-    
+.rowsblue_1{
+    text-align: center;
+    background-color: #b2e6f2;
+}
+.title_img{
+    color: #a5a5a5;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.img_block{
+    display: block;
 }
