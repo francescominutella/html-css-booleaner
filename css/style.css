@@ -4,18 +4,27 @@
  height: 180px;px;
 }
 .logo{
-    height: 70px;
+    height: 90px;
     margin: 90px;
     margin-left: 10px;
 }
-
 .title{
+    margin-top: 30px;
     margin-bottom: 0px;
+    font-size: 70px;
 }
 .author{
     margin-top: 0px;
-    font-size: 10px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    color: #a5a5a5;
+}
+.date{
+    font-size: 20px;
+    margin-top: 0px;
+    color: #a5a5a5;
+    margin-bottom: 30px;
 }
 .caption{
-    font-size: 10px;
+    font-size: 20px;
 }
