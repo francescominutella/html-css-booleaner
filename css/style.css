@@ -1,7 +1,10 @@
 #app_header{
  background-image: url(../img/pattern.png);
  background-color: #4da1ff;
- height: 180px;px;
+ height: 180px;
+}
+#app_main{
+    width: 1500px;
 }
 .logo{
     height: 90px;
@@ -11,7 +14,7 @@
 .title{
     margin-top: 30px;
     margin-bottom: 0px;
-    font-size: 70px;
+    font-size: 60px;
 }
 .author{
     margin-top: 0px;
@@ -31,7 +34,7 @@
 .size_art{
     font-size: 20px;
 }
-#highlighted{
+.highlighted{
     background-color: #ffff00;
 }
 .unorderlist{
@@ -50,6 +53,9 @@
 .rowsblue_1{
     text-align: center;
     background-color: #b2e6f2;
+}
+.text_undertable{
+    margin-top: 40px;
 }
 .title_img{
     color: #a5a5a5;
