@@ -39,3 +39,14 @@
     margin-bottom: 40px;
     font-size: 20px;
 }
+.headtable{
+    background-color:#1aabe6;
+    color: white;
+}
+#spacetable{
+    display: inline-block;
+    margin-right: 100px;
+}
+.rowsblue{
+    
+}
