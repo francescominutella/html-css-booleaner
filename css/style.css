@@ -43,7 +43,7 @@
     background-color:#1aabe6;
     color: white;
 }
-#spacetable{
+.spacetable{
     display: inline-block;
     margin-right: 100px;
 }
