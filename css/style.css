@@ -26,5 +26,11 @@
     margin-bottom: 30px;
 }
 .caption{
+    margin-bottom: 30px;
+}
+.size_art{
     font-size: 20px;
+}
+#highlighted{
+    background-color: #ffff00;
 }
